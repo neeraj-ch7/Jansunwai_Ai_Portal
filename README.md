@@ -94,7 +94,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-*(Optional)* Add your Gemini API key — create a `.env` file inside the `backend/` folder:
+ Add your Gemini API key — create a `.env` file inside the `backend/` folder:
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
