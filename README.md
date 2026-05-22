@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jansathi AI
 
 > **AI-Powered Grievance Resolution Assistant for Smarter Governance.**
@@ -134,3 +135,24 @@ The web dashboard will run at `http://localhost:5173`.
 - **WhatsApp Bot Integration**: File and track complaints via interactive WhatsApp dialogue.
 - **Duplicate Detection**: Use vector databases to identify if another citizen has already filed a complaint about the same issue, grouping them together.
 - **District heatmaps**: Geotagging coordinates to show visual density maps of civic issues for district budgeting.
+=======
+## Problem Statement
+
+Government grievance portals like Jansunwai receive massive volumes of complaints, but resolution is often delayed due to manual triaging, poor routing, lack of transparency, and limited citizen communication.
+
+Our solution, Jansathi AI, is an autonomous grievance-resolution agent that classifies complaints using AI, routes them to the appropriate department, performs automated follow-ups and escalations, and provides citizens with real-time vernacular status updates.****
+
+# Team Team Boolean
+
+## Project
+Jansathi AI
+
+## Tech Stack
+React, Node.js, Gemini API
+
+## Team Members
+- Neeraj
+- Rounak
+- Vinay
+- Sreedharan
+>>>>>>> d5662c83b6cc3f58023409dc55897d1f5891ea5d
