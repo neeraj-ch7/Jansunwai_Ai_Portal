@@ -7,7 +7,7 @@ Our solution, NyaySetu AI, is an autonomous grievance-resolution agent that clas
 # Team Team Boolean
 
 ## Project
-Jansunwai
+NyaySetu AI
 
 ## Tech Stack
 React, Node.js, Gemini API
