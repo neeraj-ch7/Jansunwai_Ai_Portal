@@ -164,4 +164,4 @@ The web dashboard will be available at `http://localhost:5173`.
 
 ## 📄 License
 
-This project was built for the Smart Governance Hackathon. See `LICENSE` for details.
+This project was built for the Build with AI: Agentic Premier League Hackathon. See `LICENSE` for details.
